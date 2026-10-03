@@ -46,7 +46,7 @@ Une plateforme de jeu musical interactif où les joueurs devinent des paroles de
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix7.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix7.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
