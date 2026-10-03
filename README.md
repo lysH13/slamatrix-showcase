@@ -10,13 +10,13 @@ Une plateforme de jeu musical interactif où les joueurs devinent des paroles de
 ## 📱 Aperçu de l'application
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix2.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix2.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix3.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix3.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
