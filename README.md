@@ -197,10 +197,6 @@ GET    /get-song-lyrics           # Récupérer paroles d'une chanson
 POST   /add-song                  # Ajouter une chanson
 ```
 
-### Configuration API
-- **Base URL** : `https://slamatrice-server.onrender.com/api`
-- Configurable via [src/services/config.ts](src/services/config.ts)
-- Support du développement local (localhost:3000)
 
 ## 🔐 Sécurité
 
@@ -455,8 +451,6 @@ Projet personnel SLAMATRIX
 
 - Classement global des joueurs
 - Système de achievements/badges
-- Mode multijoueur en temps réel (WebSocket)
-- Différents niveaux de difficulté
 - Intégration Spotify
 - Chat en jeu
 - Système de guildes/équipes
