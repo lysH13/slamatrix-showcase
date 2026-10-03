@@ -45,6 +45,13 @@ Une plateforme de jeu musical interactif où les joueurs devinent des paroles de
 
 <br><br>
 
+<p align="center">
+  <img src="./assetsReadme/slamatrix7.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br><br>
+
+
 
 
 **SLAMATRIX** (Slamatrice) est une application web qui combine musique et jeux de mots. Les utilisateurs peuvent jouer à "Les Matrices", un jeu où ils doivent retrouver les lettres des paroles de chansons dans une grille, tout en concourant contre d'autres joueurs en temps réel.
