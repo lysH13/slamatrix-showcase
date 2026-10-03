@@ -10,40 +10,41 @@ Une plateforme de jeu musical interactif où les joueurs devinent des paroles de
 ## 📱 Aperçu de l'application
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix2.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix1.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix3.png" width="480">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix2.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix4.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix3.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix5.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix4.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix6.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix5.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="./assetsReadme/slamatrix7.png" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assetsReadme/slamatrix6.png" width="680">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br><br>
+
 
 
 **SLAMATRIX** (Slamatrice) est une application web qui combine musique et jeux de mots. Les utilisateurs peuvent jouer à "Les Matrices", un jeu où ils doivent retrouver les lettres des paroles de chansons dans une grille, tout en concourant contre d'autres joueurs en temps réel.
